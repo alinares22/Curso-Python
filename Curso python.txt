@@ -1,0 +1,53 @@
+curso python 20/1/2020
+
+Introduccion a python:
+DATOS DE LA NUBE
+us: eant
+pass: eantpass
+
+programacion que? por que? para  que?
+
+- El lenguaje de python lee de arriba hacia abajo y de derecha a izquierda.
+
+- ver la libreria de funciones de python * dir(__builtsins__) 
+
+- para saber q hace la funcion ejecutamos help(abs)
+
+- Solo se concatenan variables string con string  
+
+*condicionales
+
+-if -elif -else
+
+coparadores
+si es igual ==
+diferente de !=
+si es mayor >
+si es menor <
+si es mayor igual >=
+si es menor igual <=
+
+comparadores
+and , or, not
+
+estructura de loop
+
+while, 
+for tiene 2 variantes
+For each 
+for clasico
+
+Break = rompe el while
+
+range () = recorre (star,stop,step)
+
+lista []
+traer de la lista [:1]del principio hasta donde le indique
+traer de la lista [2:] desde donde le indico hasta el final
+cambiar valor de variable de la lista variable[posicion] = "nueva variable"
+
+importacion de modulo siempre se escribe a principio de todo el codigo
+
+import random
+
+numero = random.randint(0.100)
